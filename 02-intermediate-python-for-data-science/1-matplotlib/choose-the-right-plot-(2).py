@@ -9,4 +9,5 @@ Line plot
 Scatter plot
 Histogram
 '''
-# scatter plot
+# scatter plot :: this is wrong
+#histogram willl do analyze equal distribution
